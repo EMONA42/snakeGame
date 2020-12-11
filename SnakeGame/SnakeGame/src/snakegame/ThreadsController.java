@@ -7,7 +7,7 @@ package snakegame;
 import java.util.ArrayList;
 /**
  *
- * @author LerLerChan
+ * @author EMONA SAY HIII
  */
 class ThreadsController extends Thread{
     ArrayList<ArrayList<DataOfSquare>> Squares= new ArrayList<ArrayList<DataOfSquare>>();
