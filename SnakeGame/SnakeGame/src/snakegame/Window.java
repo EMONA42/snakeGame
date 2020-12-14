@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author EMONAF2000003A
+ * @author emona sayhii
  */
 class Window extends JFrame{
     private static final long serialVersionUID = -2542001418764869760L;

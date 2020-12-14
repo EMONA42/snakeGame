@@ -7,7 +7,7 @@ package snakegame;
 
 /**
  *
- * @author EMONA SAY HHIII
+ * @author Emonasay HII
  */
 class Tuple {
           public  int x; 

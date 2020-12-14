@@ -30,8 +30,8 @@ public class KeyboardListener extends KeyAdapter {
 		    				break;
 		    				
 		    	case 90:	// -> Bottom
-							if(ThreadsController.directionSnake!=15)
-								ThreadsController.directionSnake=6;
+							if(ThreadsController.directionSnake!=40)
+								ThreadsController.directionSnake=50;
 		    				break;
 		    	
 		    	default: 	break;

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.awt.Color;
 /**
  *
- * @author EMONA F200003A
+ * @author EMONASAY HII
  */
 public class DataOfSquare {
     //ArrayList that'll contain the colors
